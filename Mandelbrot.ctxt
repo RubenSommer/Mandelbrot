@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mandelbrot
+comment1.params=
+comment1.target=Mandelbrot()
+comment2.params=nb
+comment2.target=ComplexNumber\ squareComplexNumber(ComplexNumber)
+comment3.params=nb1\ nb2
+comment3.target=ComplexNumber\ addComplexNumbers(ComplexNumber,\ ComplexNumber)
+comment4.params=cInput\ zInput
+comment4.target=java.lang.Boolean\ checkIfMandelbrot(ComplexNumber,\ ComplexNumber)
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment6.params=cx\ cy\ maxIt
+comment6.target=int\ iterZahl(double,\ double,\ int)
+numComments=7

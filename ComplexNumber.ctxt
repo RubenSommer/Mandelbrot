@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ComplexNumber
+comment1.params=real\ img
+comment1.target=ComplexNumber(double,\ double)
+comment2.params=
+comment2.target=double\ getRealPartial()
+comment3.params=
+comment3.target=double\ getImaginaryPartial()
+comment4.params=nb
+comment4.target=void\ setRealPartial(double)
+comment5.params=nb
+comment5.target=void\ setImaginaryPartial(double)
+numComments=6
